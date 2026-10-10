@@ -1,0 +1,20 @@
+{
+  "name": "كاملين للنظافة الفائقة",
+  "short_name": "كاملين",
+  "description": "خدمات النظافة الفائقة وإدارة المرافق ومكافحة الآفات",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#08a6a6",
+  "icons": [
+    {
+      "src": "/kamlin-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
